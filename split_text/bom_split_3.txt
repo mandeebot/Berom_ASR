@@ -1,3 +1,34 @@
+bom-118 : e vey  a vey ## .
+bom-119 : wot a vey  ## .
+bom-120 : yen e vey wet   wot a vey wet   yen a vey wet ## .
+bom-121 : yen a vey   e vey a   yen e vey a?   me vey a ## .
+bom-122 : me vey yunung  maa vey yunung  e vey yunung a vey yunung  ## .
+bom-123 : wot e vey yunung  yen e vey yunung  ## .
+bom-124 : wot a vey yunung  yen a vey yunung ## .
+bom-125 : yen e vey yunung a? e vey yunung a? me vey a yunung a? ## .
+bom-126 : me vey nahwol  e vey nahwol  wot e vey nahwol  ## .
+bom-127 : yen e vey nahwol  e vey nahwol a? yen e vey nahwol a? e vey nahwol a? me vey a nahwol a? ## .
+bom-128 : me vey nahwol wet   e vey nahwol wet  wot e vey nahwol wet  yen e vey nahwol wet ## .
+bom-129 : me vey gwane  e vey gwane  wot e vey gwane  yen e vey gwane  ## .
+bom-130 : e vey gwane a? me vey gwane a? ## .
+bom-131 : yen a vey gwane   e vey gwane a?  yen e vey gwane a? ## .
+bom-132 : duk  beduk  lo  nelo kya nshi  song bekpatak rugu berugu ## .
+bom-133 : kwon sangal, duk polo, duk sangal,   ## .
+bom-134 : duk ke pye, duk kus, duk tos, lo basa, dem fwom selo ## .
+bom-135 : duk badu, duk shot, duk hwal ,jék, basa, torong, ngyeget ## .
+bom-136 : tok tsik, kundung ha, kundung zina,  lo kundung ha, lo kundung zina, cuna, mwat fwom gwom ## .
+bom-137 : dem, bedem, bemwat fwom gwom, mwat hwon tot, kwon hwon tot, tak tot ## .
+bom-138 : mwat basa, kwenet, kwengel, dwa, dwa bol naas, dwa nshi, dwa lagwi ## .
+bom-139 : narang, ro, rwi, gwad, ncham, gwi, pwel, jey ## .
+bom-140 : shom, yey pyeng, lasak yey, fwom, nvwa, tomo, nerey ## .
+bom-141 : zere, tsak o, bos, ziri, hwe, kpam tuk ## .
+bom-142 : rwak, gul,gwofwa, beta,neta, nazeng,naahos,gwobwok rwang, bebeok rwang ## .
+bom-143 : ma se gyeng o  ma se gyeng hin  wot a se gyeng o  wot a se gyeng hin ## .
+bom-144 : wot a se gyeng o yaga na wot e kye e jeng jining  wot a se gyeng hin yaga na wot e ## .
+kye e jeng jining ## .
+bom-145 : te e sele hen   me simi sele ## .
+bom-146 : seleme  sele hwot  selehen  sele he ## .
+bom-147 : te e wok hen   me simi na ho wok me ## .
 bom-148 : wok me  wok hwot   ## .
 bom-149 : wok hen wok he ## .
 bom-150 : yin a se e gwa?  yin a lere hin e gwa? ## .
@@ -6,44 +37,3 @@ bom-152 : yin a se ra se ?  yin a wo e gwa? ## .
 bom-153 : gyeng  yaga ## .
 bom-154 : jeng jining ## .
 bom-155 : jeng   jining ## .
-bom-156 : yas me ## .
-bom 157 : nton me na te ye a bide yas me ## .
-bom-158 : nton me ## .
-bom_159 : na te ye ## .
-bom-160 : a bide ## .
-bom-161 : ma vok yey pyeng de ma di ho ## .
-bom-162 : ma vok yey pyeng de ma di yin ## .
-bom-163 : ma vok yey pyeng de ma di yen ## .
-bom-164 : wot a vok yey pyeng de wot a di ho  wot a vok yey pyeng de wot a di yin ## .
-bom-165 : wot a vok yey pyeng de wot a di yen ## .
-bom-166 : hwa yi e ngwa? hwa se kye wo e gwa? ## .
-bom-167 : hwa se ra se,? hwa wo e gwa? ## .
-bom-168 : hwa se e gwa? hwa lere ho e gwa? ## .
-bom-169 : yen a yi e ngwa?  yen a se kye wo e gwa? ## .
-bom-170 : yen a se ra se,? yen a wo e gwa? ## .
-bom-171 : yen a se e gwa? yen a lere hen e gwa? ## .
-bom-172 : nton men na te yen yen a bide yas men ## .
-bom-173 : nton mot na te wot wot a bide yas mot ## .
-bom-174 : nton mo na te ho hwa bide yas mo ## .
-bom-175 : ney na se re ## .
-bom-176 : dara a se re ## .
-bom-177 : ngo a se re ## .
-bom-178 : hwey o ha se re ## .
-bom-179 : gwa hom a se re ## .
-bom-180 : mwat basa hom a se re  ## .
-bom-181 : vwoshon hom a se re ## .
-bom-182 : mwat shot hom a se re ## .
-bom-183 : kan tok hom a se re ## .
-bom-184 : hwey hom ha se re ## .
-bom-185 : so hom a se re ## .
-bom-186 : hwong hom a se re ## .
-bom-187 : ney hom na se re ## .
-bom-188 : besa hom ba se re ## .
-bom-189 : behwi hom ba se re ## .
-bom-190 : begwasha hom ba se re ## .
-bom-191 : ney lo basa na se re ## .
-bom-192 : bevu ba se re ## .
-bom-193 : bengyi ba se re ## .
-bom-194 : behwong ba se re ## .
-bom-195 : beha ba se re ## .
-bom-196 : bebot bemat ba se  re ## .

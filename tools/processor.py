@@ -8,13 +8,9 @@ import wave
 import contextlib
 import re 
 
-#MAX_SENTENCE_LEN = 30
-#SOURCE_PATH = 'berom_speech_dataset/trans/transcription.txt'
-#DEST_TEMP_PATH = 'bom_split.txt'
-# DEST_TEMP_CLEAN_PATH = 'yor_clean_split.txt'
-#NUM_FOLDER_SPLIT = 50
-#FOLDER_PATH="split_text"
-#PARTIAL_NAME= "bom_split"
+import sys
+sys.path.append("../tools/")
+sys.path.append("../Berom_Speech_Dataset/")
 
 
 def split_file(source_path, dest_path, max_sentence_len, end_of_file="## .\n"):
@@ -54,7 +50,7 @@ def split_file_into_folders(folder_path, source_path, partial_file_name, num_fol
             text = ""
             count += 1
 
-def calculate_recording_len(path="/Users/mandeebot/Desktop/proj_data/Berom_ASR/Berom_Speech_Dataset/wav", file_format=".wav"):
+def calculate_recording_len(path="./Berom_ASR/Berom_Speech_Dataset/wav", file_format=".wav"):
     wav_files = []
     total = 0
     corrupted=0
@@ -143,7 +139,7 @@ def split_train_val_test(wav_files, num_splits, val_split):
     to_copy_valid = "./data/records/" + " ./data/records/".join(valid_set_files)
     to_copy_test = "./data/records/" + " ./data/records/".join(test_set_files)
 
-    return to_copy_train, to_copy_valid, to_copy_test#, to_copy_extra
+    return to_copy_train, to_copy_valid#, to_copy_test, to_copy_extra
 
 
 def create_char_set(linkers, path="./split_text/", exclude="",):

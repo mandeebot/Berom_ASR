@@ -1,3 +1,23 @@
+bom-79 : ney hom na se tele ## .
+bom-80 : besa hom ba se tele ## .
+bom-81 : behwi hom ba se tele ## .
+bom-82 : begwasha hom ba se tele ## .
+bom-83 : ney lo basa na se tele ## .
+bom-84 : bevu ba se tele ## .
+bom-85 : bengyi ba se tele ## .
+bom-86 : behwong ba se tele ## .
+bom-87 : beha ba se tele ## .
+bom-88 : bebot bemat ba se  tele ## .
+bom-89 : ney na se ra jo ## .
+bom-90 : dara a se ra jogo ## .
+bom-91 : ngo a se ra jogo ## .
+bom-92 : hwey o ha se ra jogo ## .
+bom-93 : gwa hom a se ra jogo ## .
+bom-94 : mwat basa hom a se ra jogo ## .
+bom-95 : vwoshon hom a se ra jogo ## .
+bom-96 : my shot hom a se ra jogo ## .
+bom-97 : kan tok hom a se ra jogo ## .
+bom-98 : hwey hom ha se ra jogo ## .
 bom-99 : so hom a se ra jogo ## .
 bom-100 : hwong hom a se ra jogo ## .
 bom-101 : ney hom na se ra jogo ## .
@@ -17,33 +37,3 @@ bom-114 : dara hom ngo hom dara me   ## .
 bom-115 : dara mo  ngo mo  dara men  ngo men ## .
 bom-116 : dara mot  ngo mot  dara  ngo ## .
 bom-117 : me vey  maa  vey    ## .
-bom-118 : e vey  a vey ## .
-bom-119 : wot a vey  ## .
-bom-120 : yen e vey wet   wot a vey wet   yen a vey wet ## .
-bom-121 : yen a vey   e vey a   yen e vey a?   me vey a ## .
-bom-122 : me vey yunung  maa vey yunung  e vey yunung a vey yunung  ## .
-bom-123 : wot e vey yunung  yen e vey yunung  ## .
-bom-124 : wot a vey yunung  yen a vey yunung ## .
-bom-125 : yen e vey yunung a? e vey yunung a? me vey a yunung a? ## .
-bom-126 : me vey nahwol  e vey nahwol  wot e vey nahwol  ## .
-bom-127 : yen e vey nahwol  e vey nahwol a? yen e vey nahwol a? e vey nahwol a? me vey a nahwol a? ## .
-bom-128 : me vey nahwol wet   e vey nahwol wet  wot e vey nahwol wet  yen e vey nahwol wet ## .
-bom-129 : me vey gwane  e vey gwane  wot e vey gwane  yen e vey gwane  ## .
-bom-130 : e vey gwane a? me vey gwane a? ## .
-bom-131 : yen a vey gwane   e vey gwane a?  yen e vey gwane a? ## .
-bom-132 : duk  beduk  lo  nelo kya nshi  song bekpatak rugu berugu ## .
-bom-133 : kwon sangal, duk polo, duk sangal,   ## .
-bom-134 : duk ke pye, duk kus, duk tos, lo basa, dem fwom selo ## .
-bom-135 : duk badu, duk shot, duk hwal ,jék, basa, torong, ngyeget ## .
-bom-136 : tok tsik, kundung ha, kundung zina,  lo kundung ha, lo kundung zina, cuna, mwat fwom gwom ## .
-bom-137 : dem, bedem, bemwat fwom gwom, mwat hwon tot, kwon hwon tot, tak tot ## .
-bom-138 : mwat basa, kwenet, kwengel, dwa, dwa bol naas, dwa nshi, dwa lagwi ## .
-bom-139 : narang, ro, rwi, gwad, ncham, gwi, pwel, jey ## .
-bom-140 : shom, yey pyeng, lasak yey, fwom, nvwa, tomo, nerey ## .
-bom-141 : zere, tsak o, bos, ziri, hwe, kpam tuk ## .
-bom-142 : rwak, gul,gwofwa, beta,neta, nazeng,naahos,gwobwok rwang, bebeok rwang ## .
-bom-143 : ma se gyeng o  ma se gyeng hin  wot a se gyeng o  wot a se gyeng hin ## .
-bom-144 : wot a se gyeng o yaga na wot e kye e jeng jining  wot a se gyeng hin yaga na wot e kye e jeng jining ## .
-bom-145 : te e sele hen   me simi sele ## .
-bom-146 : seleme  sele hwot  selehen  sele he ## .
-bom-147 : te e wok hen   me simi na ho wok me ## .

@@ -38,13 +38,3 @@ bom-36 : besa hom ba se ra fwom ## .
 bom-37 : behwi hom ba ra fwom ## .
 bom-38 : begwasha hom ba se ra fwom ## .
 bom-39 : ney lo basa na se ra fwom ## .
-bom-40 : bevu ba se ra fwom ## .
-bom-41 : bengyi ba se ra fwom ## .
-bom-42 : behwong ba se ra fwom ## .
-bom-43 : beha ba se ra fwom ## .
-bom-44 : bebot bemat ba se ra fwom ## .
-bom-45 : ney o na se ra fwom wet ## .
-bom-46 : dara a se ra fwom wet ## .
-bom-47 : ngo a se ra fwom wet ## .
-bom-48 : hwey o ha se ra fwom wet ## .
-bom-49 : gwa hom a se ra fwom wet ## .
