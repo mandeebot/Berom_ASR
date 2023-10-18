@@ -1,0 +1,49 @@
+bom-50 : mwat basa hom a se ra fwom wet ## .
+bom-51 : vwoshon hom a se ra fwom wet ## .
+bom-52 : mwat shot hom a se ra fwom wet ## .
+bom-53 : kan tok hom a se ra fwom wet ## .
+bom-54 : hwey hom ha se ra fwom wet ## .
+bom-55 : so hom a se ra fwom wet ## .
+bom-56 : hwong hom a se ra fwom wet ## .
+bom-57 : besa hom ba se ra fwom wet ## .
+bom-58 : behwi hom ba ra fwom wet ## .
+bom-59 : begwasha hom ba se ra fwom wet ## .
+bom-60 : ney lo basa na se ra fwom wet ## .
+bom-61 : bevu ba se ra fwom wet ## .
+bom-62 : bevu mo ba se ra fwom wet ## .
+bom-63 : bengyi mo ba se ra fwom wet ## .
+bom-64 : behwong o ba se ra fwom wet ## .
+bom-65 : beha mo ba se ra fwom wet ## .
+bom-66 : bebot bemat ba se ra fwom wet ## .
+bom-67 : ney na se tele ## .
+bom-68 : dara a se tele ## .
+bom-69 : ngo a se tele ## .
+bom-70 : hwey o ha se tele ## .
+bom-71 : gwa hom a se tele ## .
+bom-72 : mwat basa hom a se tele  ## .
+bom-73 : vwoshon hom a se tele ## .
+bom-74 : mwat shot hom a se tele ## .
+bom-75 : kan tok hom a se tele ## .
+bom-76 : hwey hom ha se tele ## .
+bom-77 : so hom a se tele ## .
+bom-78 : hwong hom a se tele ## .
+bom-79 : ney hom na se tele ## .
+bom-80 : besa hom ba se tele ## .
+bom-81 : behwi hom ba se tele ## .
+bom-82 : begwasha hom ba se tele ## .
+bom-83 : ney lo basa na se tele ## .
+bom-84 : bevu ba se tele ## .
+bom-85 : bengyi ba se tele ## .
+bom-86 : behwong ba se tele ## .
+bom-87 : beha ba se tele ## .
+bom-88 : bebot bemat ba se  tele ## .
+bom-89 : ney na se ra jo ## .
+bom-90 : dara a se ra jogo ## .
+bom-91 : ngo a se ra jogo ## .
+bom-92 : hwey o ha se ra jogo ## .
+bom-93 : gwa hom a se ra jogo ## .
+bom-94 : mwat basa hom a se ra jogo ## .
+bom-95 : vwoshon hom a se ra jogo ## .
+bom-96 : my shot hom a se ra jogo ## .
+bom-97 : kan tok hom a se ra jogo ## .
+bom-98 : hwey hom ha se ra jogo ## .

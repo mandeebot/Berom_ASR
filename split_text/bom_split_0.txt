@@ -1,0 +1,50 @@
+wav_id : transcription ## .
+bom-01 : ney na se re pye ## .
+bom-02 : dara a se re pye ## .
+bom-03 : ngo a se re pye ## .
+bom-04 : hwey o ha se re pye ## .
+bom-05 : gwa hom a se re pye ## .
+bom-06 : mwat basa hom a se re pye ## .
+bom-07 : vwoshon hom a se re pye ## .
+bom-08 : mwat shot hom a se re pye ## .
+bom-09 : kan tok hom a se re pye ## .
+bom-10 : hwey hom ha se re pye ## .
+bom-11 : so hom a se re pye ## .
+bom-12 : hwong hom a se re pye ## .
+bom-13 : ney hom na se re pye ## .
+bom-14 : besa hom ba se re pye ## .
+bom-15 : behwi hom ba se re pye ## .
+bom-16 : begwasha hom ba se re pye ## .
+bom-17 : ney lo basa na se re pye ## .
+bom-18 : bevu ba se re pye ## .
+bom-19 : bengyi ba se re pye ## .
+bom-20 : behwong ba se re pye ## .
+bom-21 : beha ba se re pye ## .
+bom-22 : bebot bemat ba se  re pye ## .
+bom-23 : ney na se ra fwom ## .
+bom-24 : dara a se ra fwom ## .
+bom-25 : ngo a se ra fwom ## .
+bom-26 : hwey o ha se ra fwom ## .
+bom-27 : gwa hom a se ra fwom ## .
+bom-28 : mwat basa hom a se ra fwom ## .
+bom-29 : vwoshon hom a se ra fwom ## .
+bom-30 : mwat shot hom a se ra fwom ## .
+bom-31 : kan tok hom a se ra fwom ## .
+bom-32 : hwey hom ha se ra fwom ## .
+bom-33 : so hom a se ra fwom ## .
+bom-34 : hwong hom a se ra fwom ## .
+bom-35 : ney hom na se ra fwom ## .
+bom-36 : besa hom ba se ra fwom ## .
+bom-37 : behwi hom ba ra fwom ## .
+bom-38 : begwasha hom ba se ra fwom ## .
+bom-39 : ney lo basa na se ra fwom ## .
+bom-40 : bevu ba se ra fwom ## .
+bom-41 : bengyi ba se ra fwom ## .
+bom-42 : behwong ba se ra fwom ## .
+bom-43 : beha ba se ra fwom ## .
+bom-44 : bebot bemat ba se ra fwom ## .
+bom-45 : ney o na se ra fwom wet ## .
+bom-46 : dara a se ra fwom wet ## .
+bom-47 : ngo a se ra fwom wet ## .
+bom-48 : hwey o ha se ra fwom wet ## .
+bom-49 : gwa hom a se ra fwom wet ## .
