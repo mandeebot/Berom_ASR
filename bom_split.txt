@@ -142,7 +142,8 @@ bom-140 : shom, yey pyeng, lasak yey, fwom, nvwa, tomo, nerey ## .
 bom-141 : zere, tsak o, bos, ziri, hwe, kpam tuk ## .
 bom-142 : rwak, gul,gwofwa, beta,neta, nazeng,naahos,gwobwok rwang, bebeok rwang ## .
 bom-143 : ma se gyeng o  ma se gyeng hin  wot a se gyeng o  wot a se gyeng hin ## .
-bom-144 : wot a se gyeng o yaga na wot e kye e jeng jining  wot a se gyeng hin yaga na wot e kye e jeng jining ## .
+bom-144 : wot a se gyeng o yaga na wot e kye e jeng jining  wot a se gyeng hin yaga na wot e ## .
+kye e jeng jining ## .
 bom-145 : te e sele hen   me simi sele ## .
 bom-146 : seleme  sele hwot  selehen  sele he ## .
 bom-147 : te e wok hen   me simi na ho wok me ## .
@@ -196,27 +197,34 @@ bom-194 : behwong ba se re ## .
 bom-195 : beha ba se re ## .
 bom-196 : bebot bemat ba se  re ## .
 bom-bib1 : yɛn a wɔ̀ wul yɛnɛ̂ sevwêl begerasa de sa sé e gurâ gworep galili. sede yɛsu a sé nusu yi e dwa-nshi ## .
-bom-bib2 : ko mwat hwak a nusu yi e tara de be lɛsɛ ɛ̀ bavîn bemat, a man na yɛ. mwat o a vɔk ceng e rato mɛ ## .
-bom-bib3 : ko kwɔ̂n sangal mɛ a hane de be lɛsɛ ɛ̀ bemat. vit a mwat de a tɔk rɔgɔs hɛ na ngyang kwong wɛt. ba kana rɔgɔs vɔ mɛ ## .
-na bol mɛ na ngyang zang pyak ## .
-bom-bib4 : ko a kwɔrɔs yemo de ya sé e bol mɛ. vit a mwat de a to tɔk ra pyɛ cak na yɛ, yaga a vɔk gap sizɔng. nagwi ## .
-na naturuk, a kyě kyè e ji tara na beraku, ## .
-bom-bib5 : ko a yɛt rebek mɛ na beta.sede a di yɛsu yikyik, a yi na setele, a pom, a gaba e nuyel mɛ, ko a gbɔ na gbɔng fwɔ ## .
-bom-bib6 : yaga yɛsu á kana yang ɛ, à ceng, nusu hwo yi e ji mwat womo ko yɛsu a rangal hɛ, a ye, be tang o, à wà arɛt ## .
-mwat o a toyo a yɛ, a ye ## .
-bom-bib7 : be tang me, à pyak  yaga wot a sé hyɔt! ko a ra won na yɛsu ding-ding, de a pat yɛ̄ yi e yɛnɛ̂ sevwel sane wɛt. ## .
-bom-bib8 : kwarâ bezà rwey o gwa losho hɛ bagat e hwomo, gwa sé re sehwey e vwâ raku. ko cēng o ya ra won na yɛsu ## .
+bom-bib2 : ko mwat hwak a nusu yi e tara de be lɛsɛ ɛ̀ bavîn bemat, a man na yɛ. mwat o a vɔk ceng ## .
+e rato mɛ ## .
+bom-bib3 : ko kwɔ̂n sangal mɛ a hane de be lɛsɛ ɛ̀ bemat. vit a mwat de a tɔk rɔgɔs hɛ na ngyang kwong wɛt. ## .
+ba kana rɔgɔs vɔ mɛ na bol mɛ na ngyang zang pyak ## .
+bom-bib4 : ko a kwɔrɔs yemo de ya sé e bol mɛ. vit a mwat de a to tɔk ra pyɛ cak na yɛ, yaga ## .
+a vɔk gap sizɔng. nagwi na naturuk, a kyě kyè e ji tara na beraku, ## .
+bom-bib5 : ko a yɛt rebek mɛ na beta.sede a di yɛsu yikyik, a yi na setele, a pom, a gaba e nuyel mɛ, ko ## .
+a gbɔ na gbɔng fwɔ ## .
+bom-bib6 : yaga yɛsu á kana yang ɛ, à ceng, nusu hwo yi e ji mwat womo ko yɛsu a rangal hɛ, a ye, be ## .
+tang o, à wà arɛt mwat o a toyo a yɛ, a ye ## .
+bom-bib7 : be tang me, à pyak  yaga wot a sé hyɔt! ko a ra won na yɛsu ding-ding, de a pat yɛ̄ yi ## .
+e yɛnɛ̂ sevwel sane wɛt. ## .
+bom-bib8 : kwarâ bezà rwey o gwa losho hɛ bagat e hwomo, gwa sé re sehwey e vwâ raku. ko cēng o ya ra won ## .
+na yɛsu ## .
 bom-bib9 : tomo hot vɔk e ji bezà, na hwo tik ot, na wot a wɔ̀ yel e ji vɛ. ## .
-bom-bib10 : cēng o ya nusu yi e ji mwat o, ko ya wɔ̀ yel e ji bezà mo. kwara mo mwa de gwa sé sede gu baba ## .
-bom-bib11 : gwa hwo tele cidirang e vwak, gwa wɔ̀ gaba e ji gworep, ko nshi mo na vo gwɛ. bemât gyeng bezà mo ba jut setele, ba wɔ̀ shara ## .
-há mo e ji repomo  ## .
-bom-bib12 : mo e ji repomo tanga nebapomo arɔng. bemat ba nusu, na be wɔ̀ di pyɛ de ya ga té. jeng de yɛn a vey na yɛsu, yɛn a ## .
-di mwat de á kana vɔk cēng pyak e sangal. a ga bang ɛ na berugu, ko nehywɛ mɛ na ga to 	 ɛn. ko yɛn mwa ba wok bengyip ## .
-bom-bib13 : vemo de bá kana di yɛn a ha a bemat o pyɛ de yá kana té na mwat o, na e ra bezà arɔng. ko yɛn a wɔ̀ ## .
-ra won na yɛsu, na a hàla yɛnɛ̂ sevwel mɛn o ## .
-bom-bib14 : jeng de yɛsu a sé yel e ji dwa-nshi, mwat de á kana vɔk cēng a ra won na yɛ, a yang ɛ, “mê tɔk kyè tanga hwo ## .
-arɛt ko yɛsu a simo a yɛ wɛt, a yang ɛ, ci vɔk e lɔ na bemât lɔ mō ## .
-bom-bib15 : na hwo wɔ̀ ha a yɛn gbɔng pyɛ de darwey a ga ra a hwo, na yerê toshô reyɔm de a ga dura a hwo arɔng ## .
-bom-bib16 : mwat o a kyè, ko a yel e ji bapomo kuru de ba tâng vɛ, à dekapolis, a hwo shara rehâ gbɔng pyɛ de yɛsu a ga ra ## .
-a yɛ. ko mwa bemat de ba wok ba langat hɛn ## .
+bom-bib10 : cēng o ya nusu yi e ji mwat o, ko ya wɔ̀ yel e ji bezà mo. kwara mo mwa de gwa sé ## .
+sede gu baba ## .
+bom-bib11 : gwa hwo tele cidirang e vwak, gwa wɔ̀ gaba e ji gworep, ko nshi mo na vo gwɛ. bemât gyeng bezà mo ba ## .
+jut setele, ba wɔ̀ shara há mo e ji repomo  ## .
+bom-bib12 : mo e ji repomo tanga nebapomo arɔng. bemat ba nusu, na be wɔ̀ di pyɛ de ya ga té. jeng de yɛn a ## .
+vey na yɛsu, yɛn a di mwat de á kana vɔk cēng pyak e sangal. a ga bang ɛ na berugu, ko nehywɛ mɛ na ## .
+ga to 	 ɛn. ko yɛn mwa ba wok bengyip ## .
+bom-bib13 : vemo de bá kana di yɛn a ha a bemat o pyɛ de yá kana té na mwat o, na e ra bezà ## .
+arɔng. ko yɛn a wɔ̀ ra won na yɛsu, na a hàla yɛnɛ̂ sevwel mɛn o ## .
+bom-bib14 : jeng de yɛsu a sé yel e ji dwa-nshi, mwat de á kana vɔk cēng a ra won na yɛ, a yang ɛ, ## .
+“mê tɔk kyè tanga hwo arɛt ko yɛsu a simo a yɛ wɛt, a yang ɛ, ci vɔk e lɔ na bemât lɔ mō ## .
+bom-bib15 : na hwo wɔ̀ ha a yɛn gbɔng pyɛ de darwey a ga ra a hwo, na yerê toshô reyɔm de a ga dura ## .
+a hwo arɔng ## .
+bom-bib16 : mwat o a kyè, ko a yel e ji bapomo kuru de ba tâng vɛ, à dekapolis, a hwo shara rehâ gbɔng pyɛ ## .
+de yɛsu a ga ra a yɛ. ko mwa bemat de ba wok ba langat hɛn ## .
   ## .
